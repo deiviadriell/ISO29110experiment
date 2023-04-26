@@ -1,0 +1,28 @@
+:root {
+    --color-dark: #15181f;
+    --color-dark-x: #2d343f --color-dark;
+    --color-dark-xx: #1f232b;
+    --color-light: #ffffff;
+    --color-grey: #f5f6f8;
+  }
+  
+  body {
+    background: #43c6ac; 
+    background: -webkit-linear-gradient(
+      to right,
+      #191654,
+      #43c6ac
+    ); 
+    background: linear-gradient(
+      to right,
+      #191654,
+      #43c6ac
+    ); 
+  
+    font-family: "raleway", sans-serif;
+    font-size: 1.1 rem;
+    font-weight: 300;
+    background-color: var(--color-grey);
+    letter-spacing: 0.05rem;
+    color: var(--color-light);
+  }
