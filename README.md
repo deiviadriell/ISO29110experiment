@@ -1,4 +1,4 @@
-# ISO29110experiment
+# ISO29110 experiment
 
 Here are all the necessary inputs for the replication of the experiment developed in the paper "Impact of the ISO/IEC 29110 Standard on Software Quality: An Experimental Study with Novice Developers"
 
